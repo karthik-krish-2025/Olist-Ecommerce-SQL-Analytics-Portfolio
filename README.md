@@ -407,4 +407,4 @@ From importing and validating raw data to developing business-focused analytical
 
 It also demonstrated how AI-assisted tools such as GitHub Copilot, ChatGPT and Claude can support faster SQL development, query review, troubleshooting and technical learning when combined with independent validation.
 
-**Overall, the project reflects the application of SQL, analytical thinking, database concepts and AI-assisted development to convert raw e-commerce data into meaningful business insights.**
+*Overall, the project reflects the application of SQL, analytical thinking, database concepts and AI-assisted development to convert raw e-commerce data into meaningful business insights.*
