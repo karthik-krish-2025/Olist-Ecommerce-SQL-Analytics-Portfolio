@@ -19,7 +19,7 @@ The primary objectives of this project were to:
 - Determine top-performing product categories and products.
 - Calculate Average Order Value (AOV).
 - Analyse revenue distribution across customer states.
-- Understand customer purchasing behaviour and repeat purchases.
+- Understand customer purchasing behaviour and repeat purchases. 
 - Evaluate payment methods and instalment patterns.
 - Analyse order statuses and delivery performance.
 - Evaluate on-time delivery performance across customer states.
